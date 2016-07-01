@@ -1,0 +1,16 @@
+[
+{
+  "modid": "examplemod",
+  "name": "DeorCraft",
+  "description": "DeorCraft",
+  "version": "Alpha 0.1",
+  "mcversion": "1.9.4",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Gurwider"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
